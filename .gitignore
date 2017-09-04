@@ -23,6 +23,9 @@ vendor/bundle
 
 .byebug_history
 
+# public uploads
+/public/uploads/
+
 # tmp
 .DS_Store
 *~
